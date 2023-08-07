@@ -1,0 +1,1 @@
+(()=>{var e,n={498:e=>{e.exports=function(e){console.log(new Date(Date.now())," - ",e)}}},t={};e=function e(o){var r=t[o];if(void 0!==r)return r.exports;var d=t[o]={exports:{}};return n[o](d,d.exports,e),d.exports}(498),document.addEventListener("DOMContentLoaded",(function(){document.getElementById("greeting").innerHTML="Hello my friend!",e("Greeting has been updated")}))})();
